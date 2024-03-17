@@ -1,0 +1,14 @@
+type: theory
+custom_name: Smart Pointers Summary
+files:
+  - name: CMakeLists.txt
+    visible: false
+    encrypted_text: SFQsvbCzAxH06IHZ31X7VYJiXt1G4dXOtGy1KgiP+oTGCz35YRxjgD6U9OUStZl8gpza3X6BF8ivoYNRUzMvAKMmXgQNA4nnZu2Vv6q6chY6jXbxiPsUXuvboYD0NqeEkXFoQA4b4pRjicTdiSt01LhQF4u9OR9l2V17Le6xBvLXsI/K5nucgv72rHCVTzkW9BlAcyp1r5p19CAa7uzhZr/tMUnDm+rR8vAfOb11mz00j645xuh+rNagf7m931+G3IGLtZIm1xujsr9HOd2ab2jgYLaskNs5x9dXEZW0vkwavod6i44VH4o3YeJv4BU9lkBBnS/Ml3hX/Z9F/x9oU8mGugvizXWn3xHUup95G+p5C2t89SSiEDnFQiERA6idu7Ou7aUY4jSgJE+Di3cGWa249bIQvb2H6uh5U9wYCozjA8TW6u0L0NLuWl/cCnuuxYK7R0VOP36uI+rEShlqQf2DyIQU8TIGXhiKdQB0XrI=
+    learner_created: false
+  - name: src/main.cpp
+    visible: true
+    encrypted_text: 9HEd8zkvNQRoCO6WiLdN7C0ZfdApwpl0ZoXlifAfmSrGUYzv6mf/Gp4TUmHv62XSZD0oSg8tP+bwaxRGF/91PA==
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

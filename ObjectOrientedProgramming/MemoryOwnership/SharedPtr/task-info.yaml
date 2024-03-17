@@ -1,0 +1,52 @@
+type: edu
+custom_name: Shared Pointer
+files:
+  - name: CMakeLists.txt
+    visible: false
+    encrypted_text: SFQsvbCzAxH06IHZ31X7VYJiXt1G4dXOtGy1KgiP+oTGCz35YRxjgD6U9OUStZl8gpza3X6BF8ivoYNRUzMvAKMmXgQNA4nnZu2Vv6q6cha3dPMTJ18Mf8eOCzqhoMDNCrLhwZes9RM++UWqrcBTaeFcLf3gBNFT5fCKSN5wHwD/syZfcolusy8E5jqTNQKb40Z3AG/7iXRq8mq3JcDl2qEuDw69/x1yXtSKReBAp9QQ1UZIoQUypkD80dP1gq117OYVWLMGStEU/KlK1QfT56Z1Wh0nmWDskgTAN6PO+QQ5T2wrBn9xkDiFTUjQUMwC9IMamve8vH9x6MVeVm5NuRG2n59bOlBTUZUjQXxfnzKMqZ57zmPCidf4Ewkl7WhyQ3cF0/lq8pKrDT9pRyBX+d88/zPEVcLG/NFHLmZNgb8PT00evXEL0af+mgLT2ovlVqaga2RT7rogPBN6QSBfIDWa1mypXo0HwnodyHNJ4gcdxygbr/F7n9DF7Jo0Vx0o2VwXbO3Rspa1DizptY2ygRyggItxFnTtIX4RDEeGG8svxcXjJ3gSsTGR84kyxd8Q1+z/mcQgU1xcnqaCczwwyaGdLrNDP9ahpR1G5umMwghARlRElfVoDcJPkL6roozDZsSdoCxvgSE75p0s+MT3L+DnxwnSXgrzDIQZAD7Frnvds9zYoQHeU8uXQmZq2xZ2qZ/+lIjbgw2mDeCj9miUbYpUol8vszp5kITKrI+GxeuJ7SMdDmgQKUQ38DvV4vqP
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    encrypted_text: L5ffR8J4TW5o2ausXnEBbQcCRTMnmF4WGGGQ7lHhmM69oBbPy7HqjOVYV7ldrmwmQnTioDClDhYYFz312GCC1VBlLRuIs5A4KY6I475zv9ODTN3zXkwKBlKN9wV05RxrRiTh5z9biDKoDxzcWZtNee8OpT/nCdYspkHtmm+V76schtoeG+7foC76rTcOfDLWsiwz2SQaObgzBc2MWxss5JwwfL7i7jxunv9m6i9WY8dJNDZHmwy/Nw11i7UVVQLcrIRLGrmWl+CkfdfvQhJEhFR+b3y+qtkmW8xNd0t+Cfx1Bw6q4pd/zpOVhTAgctDzsYmIr9HFTZhbtKK1F+oJkeeYKZ/9LGDObdes4zERmDuCZviCREJCAWUTROSli2pfi3172GKwj7l9Pj3rs7aD8AEl0gttVX6cPW30vFIHhz75UGgzvaQvhXYdR12vVvnWyJnj3y9A5x7sMsz3+PW0ejm13wd8A25pE6JIlbHN4vvTFB+7D3VDzEZvj7KJGscYU75pqiJXYXX/3mjSx65p4jR6IaIAF7TGsveKxqe0IMH4GTHM5hVfLY0qEMo+w9bG7JNMmkHVY896wh89nWKENxW1rSFO5Jug8rfXeUFGUutZmgNOWEIFvRLqfbxgyefp/G/qEG1HgprQZBsuHh+RHaJMkvOZxCYu98RWBIqj+JekD+cp2Wn8ltUBqVHpzLnvVPDB+WAs759Rp6XnlkpoKlhoOI0tDqgI3+UvtpHEGBIgSCeo6yQx3bSyulYDV89pkYKFnj+jNq5Y8Gm+zb40iJKf8j8jym8cPrEGkuG+xH2zbC5OKts2sVelNJDllPYk7V9RuHyyOkOqf6mV+hpzS5Fqr13pQEdpcajBQGIcj6WZFay0KEJsen53krTr4gV1uOPFpoOgrAC0lqUsVhWpyKylc7cN5RqnQX2b6sq7swXSElu7iUlUy16HJz/rnsS7Uww/KxSRnt3vqSM1C4CBp6ngI+ZKlO/2c0UCkb3AWCWmUvrn806L9JQSy7vzAPcQvuVA2KCivu0bPWDNqUF2TJ23S6u42h4KdIrdSXoiRFtyHVxgxaWjpdf2z99Rxc9d8Y0hnYeoOmMODK1tMZKjpVv3Y/1Ryd2d7HuAaxa8wj7CBctYqEVGnDKAum+xfbGYBJTku4R4Cx0HmWe9jRnWy45Y1ORiUiapKWfAWVdMLSP+Y9KsNcFw3wZaXDMtuqHN4AbSPOfdkOcYKyPvXI8t/UHPqw0OR1yx/qMW75Wm2L+epN9GpLHCLhcKdqHNj5AlY1pDsNwf721OKrsiHFetiyoumt+SM7Mn4myhNF8OT1ehWmpw+1zRHywWzOrqBI6bOvGY9ehY3O6GqJTuVsb9vLloVOB6j/dzs7qFjItZ8cN9tLnw+If5M9wQs5xvz+etBHcKMf7sB/+HIGN03p5+OA+GNv1zHRcYwRq8mlaC0x4wO6kGPq05qGMAo8F1drtPCeDMvJa076GOZaVQMJ9U4CWiw6nJvGn4hwi2VD3UJKoi7Lzf+642NcBo/G50leZHVP90dFx8POceW8stKvPsOm6YHo7FcjnI5BybLP1e2jfCtjn6Xq1u7c4rvEFxbQ0Z
+    learner_created: false
+  - name: src/task.cpp
+    visible: true
+    placeholders:
+      - offset: 151
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 151
+        initialized_from_dependency: false
+        encrypted_possible_answer: ooUM5D0Z6IyujndeEtxIVRj1dFk9jxEq9e14FNfvOU+61tqsDW3mOEQ44JMmC28InMW7AyJ681OZLT/7XStHHA==
+        selected: false
+        status: Unchecked
+      - offset: 217
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 217
+        initialized_from_dependency: false
+        encrypted_possible_answer: NED6rA6Zf77nbEIZzxTGcxfGeMV/UdXu5LJsCgd3Z7Q=
+        selected: false
+        status: Unchecked
+      - offset: 260
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 260
+        initialized_from_dependency: false
+        encrypted_possible_answer: Yy49nfjfAw5sOo+XYNxRSA==
+        selected: false
+        status: Unchecked
+    encrypted_text: G1EDRCp8K72w6UaV30vFpE2bmtFRK0z+RpRIbW+I1ny6ODQ1/v2R70JlMdvW07yz3vpv/wj0oC/JvDXyH9EiJACFhEfoMHySbrgLO9QunyynOWCe1lLanNIpxOQR+dtf///uwyVKrRD0yKC+FokAzjYsZQxLjbYvi8G0quFjgQK+JPaxtpjJWAqsVqoFwEN4oeeY09HpHFMvXYS5AH3zlLouCE6SEzgIm795qb8cjVqc8OxTKIEs7RAJ5dKxoNnZxF+fxsgCnro2TyrNSPXDPRb+9MLHO+9mSado2paqVYEfx+XCFLw5xYZBFyaKIx1/TjlJgwcqiTVyPlg/pnuPAlgvF8H/YLAp9ZUXaBLueR0mvFqaTbfh3Jz7gzd5OibtcV9OHJAIVr0cP2EQWkBURA4tSu78N5PWDXVL5YjcGHmdJ3UTxmdfTBWF/KD9OBjFZFxkFEExIDtnnaVJxMAIG0yhOKzou584eUoHXqZXFl5XWN8sx4v82t1S48SIWPMxjf/IgfyqtCf3Zt4j/+0k9xUWri1bCRPBWj8LWEEZI2vsGQlFDq/plBZcfPzOddP1WZSIi0Lf0pr6Pdz8sLOa8YYdk7C+6VWDI7hC0yaNMJ45Alc2p0/nRIcfFegSk1JO/wjRzpBky6hcs/E8+fBfkKxgTr+R7l5JEqjxIvXB8l8ly6IqAnUHtFdAaddUj+Wb69OvQj4+/egwxOT5UIA/IN3UA7GgnLUkf4M1GuNOEQj91RjSt8+O5Pyvs2OTVqcJJ8GiqUgBUxZHiUgWqtNU4TuVHnz2/cC5nHHjISLUQfI=
+    learner_created: false
+  - name: include/chat.hpp
+    visible: true
+    encrypted_text: HKvmYuMKQ+qovG+SaOu/nGIdzzzB+AZDgdtZu4tjF62URLANUm2rJ+J63yUX+VOa9dOTLtBgPYQNbKqqSQlFbzTwKuE3LKWGMLQH6xf5rEIItt47F3EJeFX/a0LSsmdvTeR5PB1dV/VPKvqLILy6NLVLjmFkoUCE5eIZTaDLrSgt8hzfb1WAlQGw5SqLw7VIFT/tdFq/mTXyaB/ZJ0uyEyUr3a8N9MLpnVIeiRuMhjOQQcXAa7adFSL5ezafCL3sBAQomH2H/TEflr0YmQ84mGvCDw2TwdBSbokxuomeXpQjUarqGmPQr8sdmKhUV3eapczMsLtrmbioY3qbwc40Q5um871MuavaK9012ZxxLpH4QVBMlNrk0wBWY63zjr+qS0hjlJOG5Gw0hpaHlKrvDmPuaffM2g/AP4ZvPOMKNFNx3pGHPIsgR3otSXiw39bCtPhniR+qmVm66K4cL6RmTSDyrLd+sjrhusQX38sv7SDc+fZhLBt3VuKOLDU1x6s6JJ+xJ9y6N78CzVeLyVjjZ2Umic/F7FPF0aCUzfZB9PgqfFrggRJNmRxOjgb7vw0g3nzWNVEY4RnLD2CJc2CCXFV0I8avoPumYKsY7ixEGqYJ1wnfl6kXhVMfblkkdHjOD2A4luW0tgMfG0XGlSJrFNHYP0A2EvISIvdiddYMZi8necYoZPV6kYGH2AKSZOuUGROvzkICY+HUuUHnI57jH2BqTG+qqUvFCHwP/YHjuebbkPC1EjsuYydLNQm4QdN1bEVCJNmR6wGNkzaOcY7rzMJiV/ABty6B5njxkCyCo833hUJXHv323uEfUm23hOfw1pdPa3+QqzS36mzAJc8hmcoCD8d8t9dH51FOEKTgJSp2gq40Mk/6xrhcTYiaMZIpE355ScwsH4Ab9DHiHH6HcG2P191ahJZWutpTHz43z0Yw8ViOqUtWGcINiafKZ+zO6HNsSpDd64Cr5+I4kGeDMHLLrIq35nIO/vIk3To0o3YT6qbO9oDpJrXydJJiu/v6hV+Ci10U6UCcsKdLx4xgWh2Naws9rkho7T4jYwNIjWsgmU/zEC4fDotNxFPYAfupfoUUNnbvbDRjATm5ePmzLRZwI6BaPSvHm1pM9sVBxvYCpi0PqJuPIjefmENPGQrrT2v6gT3U1sSPM0SEqktqf5Xm3LAgGfQMZyN9hIePfHsxyMmRcuWxzbc7RMi8wweCrLVQQyp6MsiI0AXnkwWKPiEUBT/hFRxJOpzWB/CLzD/BQQcp6Szt1JsU0j0/Tj7YDV99THw/yaHQr+krwpyaBgC09auJY+1i9APFBLw4dl4e5DqUlGgKhMxtcH7es4VIGRm9vSYxLQ2J0GXPG+XSvwl7G1FPcGEFE1gkp+/Pj4E=
+    learner_created: false
+status: Unchecked
+record: -1

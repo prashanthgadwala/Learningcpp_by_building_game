@@ -1,0 +1,48 @@
+type: edu
+custom_name: New and Delete Operators
+files:
+  - name: CMakeLists.txt
+    visible: false
+    encrypted_text: SFQsvbCzAxH06IHZ31X7VYJiXt1G4dXOtGy1KgiP+oTGCz35YRxjgD6U9OUStZl8gpza3X6BF8ivoYNRUzMvAKMmXgQNA4nnZu2Vv6q6chaadSijYtgXcan3/tIDp/A8Ije17+Hctgmqjfd1CvtVRG5AmMv1u6yj/X6L3Hn8GtJp1dQgAcQAhb6piUz2lsU4WKi6uzSHkRiofVSFXcXBxlD5FThfDmN029cgDj0SEhAXfTJnrBnEiyKXD9vSwN6e3SGmWXpIoAWL6s7+1ih07FSx04MSawbTsuBFwOC6GSGuzkATvLmv4wIOhJeg04/GMbibgXQwOS7rb+JTUVGY3Lg8IGqHD5/VW9AKVsL2k3/anW1CtEHEAzmX3Cx9iWIBPmXIczbv4g34YVR9rfvJ5bH2ArGmjjkBSLyv7iMAR0nzjXcXpfyTImjwE0NC/Ed7GqG4mpuDllRJxu4/xyhFfWfe/KhJvo8OBdN0Fh6asbp8ccvd4fXl5i/z/n7NE/8wtWwN1Ke/hf2ngHGa48axofS+B26VKUIdwY3wxeTX8Ixa6WmGpTiCe+j6mk4MshH8
+    learner_created: false
+  - name: src/task.cpp
+    visible: true
+    placeholders:
+      - offset: 83
+        length: 49
+        placeholder_text: // Create and delete Book object using new/delete
+        initial_state:
+          length: 49
+          offset: 83
+        initialized_from_dependency: false
+        encrypted_possible_answer: Mu4fge18TlZ1T++9yw+8vo7qnKuLWHMrFPmuOZu4HEADsSg6ZkBddR6Y45HfME1lr0ZKWYxHppaHwV44ZIM12JXsMS0/JegWbsR/3NCb6HQ=
+        selected: false
+        status: Unchecked
+      - offset: 167
+        length: 32
+        placeholder_text: // Do the same using malloc/free
+        initial_state:
+          length: 32
+          offset: 167
+        initialized_from_dependency: false
+        encrypted_possible_answer: Mu4fge18TlZ1T++9yw+8vtswCJ5Jac1nuUQUGhBd19tvt537l6g6k0mXj5vgo8eVAEigUsnFNbtpGmstZP3Aa2iRMxJDVOXFYxygZG9mS30=
+        selected: false
+        status: Unchecked
+    encrypted_text: G1EDRCp8K72w6UaV30vFpE2bmtFRK0z+RpRIbW+I1nx6D3bXbGJF/Moq4Y2IyHkZrlxDiGwU92YYgCxa4p4ZrLnlmFlt41+CPinr6gI7jkYP+fNXAXA8R9ZA728pVJ17s0/hOUN7bH9Ajszo7dUO+e1LxH3Z3L1XxK2hjlduEwvWhHoIFEQ0qt/ZOcIR0A9hXsGmRxQedb2HSEQ2YHKfLTy0CVcoKfJVCJTIjm8WH9pz44q/W2nl6p7J4q6m3QwYL70vBbwKx+eKsSqZ37hA42iAR01H0lEsUU2yI3ZVDNoxo7ACwXvHt5d39j+VyFtcLWxX4R/Kb9IyGCr0/vMsj93si93GrYwsxDNWCZZHitUF/nxm6J/QQZiuVLYLycSc
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    encrypted_text: L5ffR8J4TW5o2ausXnEBbbNk2OlFqMbVM7CIl3R4fxyXl2FBmB4qi0zuFPrFQOUQaBNFqfEi5aWksA0WtjaUTiYrtrXvd81KIBq/+DysQl3iUN/CJ+LOsDJdyqaVM58svcomHBxI6Sw+WOCSZqUTHLUYEuSdAdpAbvbMSX4wP4Zyx3dyjCZTuVBfrGtlVFFg1pRhVCZ+YjT9vSu1zf4OHSOMDZKgDIPV6N1xUmFC8i5Bi2OKaB1tbWi562WqLt5Gp6+wD3jqe1aYmZoWAPkqshKn+hsW6jQnesLRsLbyPi1gI9jjsQ5eMFMtfZdgtXL9qCKeoo65EbRa50emFmDLy8RLItpvxirR90PCgsgp9xOrlpDoW8PfoU7bT80D+MBj9J8fyr5zvKOWdL/e50otkaJlShJZDZcj7zccLenj/ezG805JlaGQbYQnV+nynKggd7w+sQZ+R9J/n+y9vgWKJw==
+    learner_created: false
+  - name: include/book.hpp
+    visible: true
+    editable: false
+    encrypted_text: HKvmYuMKQ+qovG+SaOu/nENGb0nszjeQGAchCztTbNUH1Ov/htX4QxDqL2ACcJewY3I6h2nXOGdt0qZvq4zC6VCfAj6JYnwagd92mEHA9wrCgsFaQu3uOAs48NzXHoAYI7YK7gFOUXKlT6Dw0J+KLioAVWtwFbTCWVP+JQmbi4r1lPVVhWNOeqrscT3TGWnJPe1oD9SS4Eo00ZXQYDoWTg2KFCDd7ox8z2gV/p6X0NjeW48ONgkcifstN6zMRBcMV42K5M37ocRsVag8A3xTTK26TJyeXWjDNtFrYoVToTS8248j+5WfSm+/D/D9GR8MnA71+j9S4aiAdHxuZlEXR8a3FX++5fvKHK392NodKxFkMkJnQ8wn55XCvalpIEZjeFi7SGg1w8C8Wx8UjGcWlOBiBrVJfRAzrJkQERJZzvcyUjcSSNblcduj1W5WDZYOgp6IvIzlj8OD/8GL+00avlYAZatBU92xCRpKlNB7LL4s6cSV9oFbA4KIVv1jrmFQvRA3ZF2kNkHWmgnBRQ4xSrD1V1uCnVO5NmWtQ6IILsiAebKDNjJCqc2f3uPb+DKwKMd7UR3lT/+atlEH2WFvZlFHF3CVlfO0q7AU3aoUcU0fHVZef7G5p0w4/HOeq9ri8megaBLIyeddyolF8743/A==
+    learner_created: false
+  - name: src/book.cpp
+    visible: true
+    editable: false
+    encrypted_text: qA3J4MLT6ogYstUtMaT1k94hLk8MPoDJ0ayrdL6sj0S2T9QrUtvrogeb2mzral2gBjPP0g3oa0V3muF1PW3+Sg==
+    learner_created: false
+status: Unchecked
+record: -1

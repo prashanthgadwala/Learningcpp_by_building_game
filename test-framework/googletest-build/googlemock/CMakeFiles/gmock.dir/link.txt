@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc /Users/prashanthgadwala/Documents/C++Basics1/cmake-build-debug/lib/libgmock.a "CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+/Library/Developer/CommandLineTools/usr/bin/ranlib /Users/prashanthgadwala/Documents/C++Basics1/cmake-build-debug/lib/libgmock.a

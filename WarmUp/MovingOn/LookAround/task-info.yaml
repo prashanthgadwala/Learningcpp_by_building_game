@@ -1,0 +1,38 @@
+type: theory
+custom_name: Look Around
+files:
+  - name: CMakeLists.txt
+    visible: false
+    encrypted_text: SFQsvbCzAxH06IHZ31X7VYJiXt1G4dXOtGy1KgiP+oQmETHHGtFKz38G/nw2RsHrs9792Ebkb4loMB/bMXvRfQfONY2RzWnnRPceaUFYp9UM3PxQO/0Kmwn0xEj5vmxc3S9vx/KRQbOtO6+3uv2jEA03tV0Gi70xYYOTxYuxI5GrwiyjWrlRKYqKsSj++3hm5u0Yg8Sfa5oscGf5LcHSIR2bnZ4xU9LUyIhVYsNyIwsLpQbhz5VbrVY8fH9CDGzIGK/Ewb0j1GcUnjlUMHmoui/TmP+TN3rXcC3AYw0TmU2ikVpP++Y+5TQ0IsDnMQx6tcsn5DAFEKlHsNRok/B/99Av9qUFQAHURnQYSb+N3NUdZhzvCysPpyffOaEC5Jm0c3SDogUMTJTofxxxLcbo9m8l9OPXNvZeMxmWfrSrj3w=
+    learner_created: false
+  - name: src/move.cpp
+    visible: true
+    placeholders:
+      - offset: 69
+        length: 27
+        placeholder_text: position
+        dependency:
+          section: WarmUp
+          lesson: MovingOn
+          task: MoveAnObject
+          file: src/move.cpp
+          placeholder: 1
+        initial_state:
+          length: 8
+          offset: 69
+        initialized_from_dependency: true
+        encrypted_possible_answer: /IQIMKSrhsIgpemC4obiThpE863msPE3k23akoUEhdM=
+        selected: false
+        status: Solved
+        student_answer: position + delta * velocity
+        is_visible: false
+    encrypted_text: DgDba3xw8RdPYu5Vpld1eY1E1In1EtrkhpergIjsa98GD9AajcxH3KPkrZtC79Z0z0WeLwhF/LNOzCk14uM0mog9a08gUS9CQUy3yToBClMpNR864AeSKRzrZlaUOFpZ
+    learner_created: false
+  - name: src/main.cpp
+    visible: true
+    encrypted_text: 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
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScfBp0gzdxWOmXvQVdyNmeO1od7CG7zxLgNUP4LzKxLBCzkhQ/viewform?usp=pp_url&entry.2103429047=Warm+Up/Moving+On/Look+Around
+status: Solved
+record: 3
+post_submission_on_open: true

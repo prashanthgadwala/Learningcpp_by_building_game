@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "ObjectOrientedProgramming/MemoryOwnership/SharedPtr",
+		"source" : "ObjectOrientedProgramming/MemoryOwnership/SharedPtr"
+	}
+}

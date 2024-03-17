@@ -1,0 +1,38 @@
+type: theory
+custom_name: Having Fun
+files:
+  - name: src/move.cpp
+    visible: true
+    placeholders:
+      - offset: 69
+        length: 27
+        placeholder_text: position
+        dependency:
+          section: WarmUp
+          lesson: MovingOn
+          task: LookAround
+          file: src/move.cpp
+          placeholder: 1
+        initial_state:
+          length: 8
+          offset: 69
+        initialized_from_dependency: true
+        encrypted_possible_answer: /IQIMKSrhsIgpemC4obiThpE863msPE3k23akoUEhdM=
+        selected: false
+        status: Solved
+        student_answer: position + delta * velocity
+        is_visible: false
+    encrypted_text: DgDba3xw8RdPYu5Vpld1eY1E1In1EtrkhpergIjsa98GD9AajcxH3KPkrZtC79Z0z0WeLwhF/LNOzCk14uM0mog9a08gUS9CQUy3yToBClMpNR864AeSKRzrZlaUOFpZ
+    learner_created: false
+  - name: CMakeLists.txt
+    visible: false
+    encrypted_text: SFQsvbCzAxH06IHZ31X7VYJiXt1G4dXOtGy1KgiP+oQmETHHGtFKz38G/nw2RsHrI6TLIQ1X9oQcGtYXyYLfu/to46SXdBjiHfdFtvcRq4wBpaYZStWBDH8wjmNfCqTdYnPwfQUx54QpYR4o4J4qEOSzQg0rx+sgAAm+pVjXk5Sfo+ausLHRQEGKeNSIvk5r7yT6TPwZ21nN1gz0SykyZnuow1Kvr2wqiYYDS5jL4iEvCjLf5mcQQEZ8PC95R1d7nT5+eBIlfQ6Hak1yL2UWdZ86QTzExGaF3g7QbVc8gwBl8Q7BKUx3w+azOdfeywBjX6viRXTxs/cX3LiW+rZmqbD45VyMga98BUQ9kBvRp5c/7q4l7k6cspmoz9asya1kA3FzJ2jOQL5ejXntO55sRVpI87yRP8Lg5HjEaMWmVG4=
+    learner_created: false
+  - name: src/main.cpp
+    visible: true
+    encrypted_text: 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
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScfBp0gzdxWOmXvQVdyNmeO1od7CG7zxLgNUP4LzKxLBCzkhQ/viewform?usp=pp_url&entry.2103429047=Warm+Up/Moving+On/Having+Fun
+status: Solved
+record: 4
+post_submission_on_open: true

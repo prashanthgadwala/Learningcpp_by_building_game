@@ -1,0 +1,28 @@
+type: edu
+custom_name: Unique Pointer
+files:
+  - name: CMakeLists.txt
+    visible: false
+    encrypted_text: SFQsvbCzAxH06IHZ31X7VYJiXt1G4dXOtGy1KgiP+oTGCz35YRxjgD6U9OUStZl8gpza3X6BF8ivoYNRUzMvAKMmXgQNA4nnZu2Vv6q6chY1tgICRN7q0ahVPDUozP4XCg5bM+ls1CF6QTibjgvGWsrDRKq4bxSVmeEwHdikTG5MyP5dfwjKPX47BgpE1zjkP7m1ODYV6ZPid8vipmz0ZU3W4z99DfqPRr26KRX0vGgasw9QKgdhXATsIG6I4TBcbRddhYheaQEBAWwrcwX40o66tx1IJaLV9Nz8IB8z8qi+RDa+uo0wuHRbxXfq8og5EdLjOPHyE2GICgr/c/9l+2rurMGH/LwiGpChlyg1NuUes2D7Z07IXN7biDEuncqP5G4R9tlQ6wBra57uWL7D/udJhEp6c0dzABBz51Y3Y7j/nK1XHJ6sngDYb2RFb5zAJLz7U5WEvVgFqllaMpqOEMW6w7PgcCJx82Nm/I41Ofce4gsZyPw476KErhKMT3il5+0sbHZptvfMXzoPYUdPuQf5sgq8MVC8ADs4wBt92mY6hLoENeh9WuF+mo+XmubVB9zG5ksXdvrt0DI4CjhJGPSa/mxcML7Jm5me1EY7FzRJ+VJRAao8kvL24EESDnV1jFFvVb7ycaiqinWqWhLLQSxc8bOHX4zgAf068tyUPLq8UX4RRwd15D81ZonH2GdlYjwNsYGoMnkraXA1+61F9CnKKw4uCF+PyMdhPRHdBllWb/wrtZi32C6z/ewIN9qL
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    encrypted_text: L5ffR8J4TW5o2ausXnEBbQcCRTMnmF4WGGGQ7lHhmM7HjSjEOpxWOey712zc80R7m7uPMVPJUIzprsUHEaRVYGCgHmLszfL9miV4zep8vhiZlDSgbcX0Y2HdExzhom5BSGVneg2iFo8E/LemjQq1KMuYgilnNwAhGyVJ4IVDvHplYju0QMwJkHIUraXvwhUpkGs/NInypvGff8NOq8c74qUuis/kHk5W99cXO1CAfBLyZL69JWZ/Itp8h/fqCDRLKHK5gVAVnzJbNCu+YjlcU1dO0ewY3Kc2rEsJP3tUcuzbbMAntXZ0CHLNV5gYqsjawmzHQrA97ASI1CrbKy90+/W5yz2F9a4ehQjFkPcqGWOJ0yyjuEm54VqviO70KUoPDRn2lYiX9v1COOyYjEii3ieBkv3/oeY4OXkzDrj8rFj59MOVvsBoy+uEp7KtiXPCGnyOtBla8TELxd9snCCbPjkW68KvwRXB/SAvPhzlMYQeQ/YjOTlCXGfDkx5r0QMwvqiRdbSHWeh7JrbrD7pGztHiJnmJFEvums1xRbf+EFD94M/kDnId5cKx3/4rmvKxkMWMYptuCG4ff8ZMxn2MuNN1FQ0fNPKv4fOGHfXdX4BIhuExkb1lwf4g8QRuGRlXSg7FJY87HqJxS0IgakeHJfjMZHZBmLtWMHVRG3wvoMM=
+    learner_created: false
+  - name: src/task.cpp
+    visible: true
+    placeholders:
+      - offset: 104
+        length: 15
+        placeholder_text: return nullptr;
+        initial_state:
+          length: 15
+          offset: 104
+        initialized_from_dependency: false
+        encrypted_possible_answer: iila8q0WBkSJjvXwkKni7VzpOJhNeQwc04vvLb+RKswY8DMpqZghiBTiJo6X27ij3gCYSsdP7NKNb3eeDwqjDh9dXMNxMedpHfVywcE65RchJRgo8hx4iwdCbYo5FSQjh0Xk9GeRP6l6sduz2LQKUEWi9dXV7+uIeiLK5Tt91pyYDTmhy0D5KPEryfWklg6VvbsVVy2E5ncmR7v4NU9QnwBaN+Nrs2XA4v27teXEgf8i2GotLEdokutdjY/Q0qp4wk3i6xuiOmwaPCrLmX16lw==
+        selected: false
+        status: Unchecked
+    encrypted_text: Qkf7/9Srum7dDWEITmo6xj6MIHABw0B2Y22phS6XEFu6Afup6NpgwAOVos0qvz56qBa7jibfUbNu7d8M0S3HtJmKRug4s982Q+aCwhEApbMWiE0JvnqxAurfknrZfuMN02oGvQ+Y4/2mogwVXE14rH4JDAVgvcsiis7b3E7YB4X2rWAK9Vq0rrqu5nSdETfgvK5e55K0/FhmPCcw/EU5LH2v8iVVM5XItbljdSTF87WgMRkiEW9EdtGRqgYKCb7gC9YF2BdHYPDrJ/jN66R/nSeKJEiTbfSMaZBtnSHooTKXK1QAtQujC9Y7neUd99cOuYH6DjoIc+1kMATWuMFh4HryNRWMLfoYUEV2Z9x2d8iAVFhALwWk9LKxn7znex4ia2c5nIiasVUwuQ1rVpcOBrNfP1POAWVyoNfEqgPLUlkJumy92bK/Xwmy+x+aehqP+j9IllmhVQ/y4Fwz5QkskWABllS7gX6KIAQtLB89KIWaruoomJiuFEAdAy6NWELF53igkcd45GtRh/7MkyEzWp5UoD5rXGGQLVRBApx2yU8=
+    learner_created: false
+status: Unchecked
+record: -1

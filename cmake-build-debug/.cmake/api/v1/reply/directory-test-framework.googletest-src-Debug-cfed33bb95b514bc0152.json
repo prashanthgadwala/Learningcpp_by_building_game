@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "/Users/prashanthgadwala/Documents/C++Basics1/test-framework/googletest-build",
+		"source" : "test-framework/googletest-src"
+	}
+}

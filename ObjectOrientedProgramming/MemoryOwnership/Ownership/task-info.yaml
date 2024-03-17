@@ -1,0 +1,14 @@
+type: theory
+custom_name: Ownership
+files:
+  - name: CMakeLists.txt
+    visible: false
+    encrypted_text: SFQsvbCzAxH06IHZ31X7VYJiXt1G4dXOtGy1KgiP+oTGCz35YRxjgD6U9OUStZl8gpza3X6BF8ivoYNRUzMvAKMmXgQNA4nnZu2Vv6q6chYWXKDgdAJOD0XGMJlcn8Yq9ze7ZaOsdUK9nyoOXt/I2+NMGSHZe81zaIoMS66f1ImwGH3+OofLSUBfS1eCi1hTpcIlcSEHtO9kfSxPwHkkD49iQfrBQ42ihjUPbqvnm8e6kQbFtFi8R/bZVD5yZNtRBGZi4OeYvb1+G1kOKnZJGsXV+r0grdYLdOp2zOY+NreaVVTmXsHxAm0nRD+z4KclqG1UrdHKdWqr2857BI+MM6Sq19UUynrsPGJRxu3FbNC2tbOvZouA8YD1AmyvAb7VM5zuPrFORctqdSzmgEq8mVLAEuCTfBCCQ9s1i5gGyFX20pLXMBJ9a0ejvahfqSS6UBYuFH4R++wFk9HR+NOMzA==
+    learner_created: false
+  - name: src/main.cpp
+    visible: true
+    encrypted_text: 9HEd8zkvNQRoCO6WiLdN7C0ZfdApwpl0ZoXlifAfmSrGUYzv6mf/Gp4TUmHv62XSZD0oSg8tP+bwaxRGF/91PA==
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

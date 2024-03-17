@@ -1,0 +1,139 @@
+type: edu
+custom_name: Giving Direction
+files:
+  - name: src/direction.cpp
+    visible: true
+    placeholders:
+      - offset: 69
+        length: 304
+        placeholder_text: "return { 0.0f, 0.0f };"
+        initial_state:
+          length: 22
+          offset: 69
+        initialized_from_dependency: false
+        encrypted_possible_answer: on/sur0CWG0ibtaPUp4I4RUa30x7yQMzoRa3PT1t+wVzhIhGVGPHM+T6Gr+R6IJV4Hjx4y86zIZwJUAHd/hD8rqBoQrW24nluRsodOi0kuCn9u4lYk/IciCzHS8/gW4QmXrrXZaFLbYxsa4MUeblFoNB91IU6yFnko54WTOpCoMdG1fqKiwO8GrPm4oelSKsg1ivMsUU0ivW3TQJ53B84TyhRBnpirNJFCDlBzi6lEBHU/5slem/JJUyQ1YzRylcgCIB8kummjhHHMZVpHVRV+/TBF3E8THxteUX1w2JaI1ty9qbeI5kZCMZsuLvKNcUmuRjZxIzY3fryRws/poX6qczfP37k4ht59RpqnTRB3qhSjf1joUgXpkD/jF1+qwKnP+D+/AVSO5mGOrDzGhejEnE9jQbU6nv9cwZOK/BiXE=
+        selected: false
+        status: Solved
+        student_answer: |-
+          switch (direction) {
+                  case North:
+                      return {  0.0f, -1.0f };
+                  case East:
+                      return {  1.0f,  0.0f };
+                  case South:
+                      return {  0.0f,  1.0f };
+                  case West:
+                      return { -1.0f,  0.0f };
+                  default:
+                      return { 0.0f, 0.0f };
+              }
+    encrypted_text: RM3glct76ild7/h3ikz0ZqHQHjZv0jjn3h2PSVgrH+FL68yIIZnG0Ep5RobTzO5tbPTXlEdvmmM6SWxLGObL87ZoOhSJTRBEGnFI/sCSNW9cdq4H3H3jIjVD1kjR12uu
+    learner_created: false
+  - name: src/point.cpp
+    visible: true
+    placeholders:
+      - offset: 87
+        length: 86
+        placeholder_text: /* TODO */
+        dependency:
+          section: WarmUp
+          lesson: MovingOn
+          task: MovingUp
+          file: src/point.cpp
+          placeholder: 1
+        initial_state:
+          length: 10
+          offset: 87
+        initialized_from_dependency: true
+        encrypted_possible_answer: INFFZm5M9eNeUYNHh0poE4IjA6Qhliit+YXwuyp8KiidJgZf8F5m/TN12meGrfFZ
+        selected: false
+        status: Solved
+        student_answer: |-
+          c.x = a.x + b.x;
+              c.y = a.y + b.y;
+              return c;
+          }
+          
+          Point2D mul(float s, Point2D a)
+        is_visible: false
+      - offset: 251
+        length: 10
+        placeholder_text: /* TODO */
+        dependency:
+          section: WarmUp
+          lesson: MovingOn
+          task: MovingUp
+          file: src/point.cpp
+          placeholder: 2
+        initial_state:
+          length: 10
+          offset: 179
+        initialized_from_dependency: true
+        encrypted_possible_answer: pelbdSGe8NgHG+byI/ljy5v/ZQLq/c9yOSKURsdX+MpMLssF9QyW3PScRwJi68X/
+        selected: false
+        status: Solved
+        student_answer: |2-
+        
+          Point2D m
+        is_visible: false
+      - offset: 354
+        length: 8
+        placeholder_text: position
+        dependency:
+          section: WarmUp
+          lesson: MovingOn
+          task: MovingUp
+          file: src/point.cpp
+          placeholder: 3
+        initial_state:
+          length: 8
+          offset: 282
+        initialized_from_dependency: true
+        encrypted_possible_answer: SKJuYDb16PU7jYutTiTlSfCAdk8sm41OEn66k7L3tCTPDWPR+FlDsnI2q+usN94C
+        selected: false
+        status: Solved
+        student_answer: locity))
+        is_visible: false
+    encrypted_text: RM3glct76ild7/h3ikz0ZsLCi3dH+TBc9oQQxhPtvdkQEmvlcj8f6xhLqTupvxvtheCG4S3oQCz+LCtMKo8AYc+8vyf1UwigQ545GT9snGXeucMg1sannbfBHsGn/lWXOJ1q5zf/V/7+N3SpiKbKSF4UdPIi+TcyV6liIJelDozGXJHNXMuQY1PwJHcR6BvRtmbYCTPMYgh22azw7gZa3+ksrHOVPTQk15VV7FzA4ZeFOP/2g9dLxl21wOrFht/LvZ8v7vBtE1+fy42wnZ2ffHndZ310QCCIzWYo6QFQG6QnnyfpkiQlxPPbkAu18MjEZNbWaHAjfRooaasy/4JVOFb60ldZXPMaefWHlR3V2UPr59jB3XgEvJLIJ7FZlcecUw5b0ok26fnKc+Y4DUJGXA==
+    learner_created: false
+  - name: src/move.cpp
+    visible: true
+    placeholders:
+      - offset: 69
+        length: 27
+        placeholder_text: position
+        dependency:
+          section: WarmUp
+          lesson: MovingOn
+          task: MovingUp
+          file: src/move.cpp
+          placeholder: 1
+        initial_state:
+          length: 8
+          offset: 69
+        initialized_from_dependency: true
+        encrypted_possible_answer: /IQIMKSrhsIgpemC4obiThpE863msPE3k23akoUEhdM=
+        selected: false
+        status: Solved
+        student_answer: position + delta * velocity
+        is_visible: false
+    encrypted_text: DgDba3xw8RdPYu5Vpld1eY1E1In1EtrkhpergIjsa98GD9AajcxH3KPkrZtC79Z0z0WeLwhF/LNOzCk14uM0mog9a08gUS9CQUy3yToBClMpNR864AeSKRzrZlaUOFpZ
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    encrypted_text: L5ffR8J4TW5o2ausXnEBbbNk2OlFqMbVM7CIl3R4fxx54TFe16jexo7hCI188ukssOiwHUaRMaXMA0T/Azfc7Y2vH+TmcxMC7Lo73MftHgxdZAD/xJdQIKaUlhwhO+zDgZR+7tHy+1vxXsEOFLe9K59zaaHLhEU/KSnlhr+PVpa1OWZmFHkP4AGC8ZrbD3mHqXitMIuDFZiYvPmmc8KmbD7C87hgINYG75S4kU986Ur0WiK+biyp/m1Wv2Uq/1ZjorC5E5Bj7VE12KLSB5Ithh0c57IRFE834/f2XfAEUsTVsWYhjdRW8hwKsHHTcoKBb1ab0yn/8Aq/H6Pp7O230Jj1uTEyf4VbAfx/ZBEoYMBBNFeUKnxplVU6vLtxl/7N2rZXNaa/UeUemk/u2g+DNwA47EmvbSwUb+3ER4zeSIVcZD8dETbin7h3HGHI8gp+3Se7jneLF8ewu/UUpTm++vAanbrSN+fgTcjSl8FA9pHSHaeAz/M2VTjanJ9AZxFJpgNyRCDwFZXoXFMefRELHxUjOtWa2oJcTGfbjIhY981K/jI+INRxsCwClfoihaL78nwws3XvjXp3i/uiVtUFjkKbPvjTz75h179uLqpX+WJP5St+7WnXhD17XfWC8rvFENKmg1GWSNmYpFrKkCPf1m1jOE6vZiBbPCRN/0bPmt1jqbc5/3EoonZJmEyxDgi4Wf+upDNV2RDGJVLiasFKxi9Fi+QRah2mzm3L+aww+u5YXV+eXmHRM1DGLYcJT4GXYKbAGx5SyBYl10J+HiiyTZFDjTZNfkmlJahBpfTb+B8VkromhH6FEBH9p4x5YyjPIeyuItvKG2B4aB0wwT3lf+i+tlkhD/75XEk2Q1YqCL1fI9Os1pAXb2bCrPqoOgW5MMPOZs4h6fPi19cDCbbSgmjOSi7dqGsGPL65oHSwtzeg73vFNbI8AD32jjS+gf4+uDcFR4hQNuJbdo/Ez8jzqY05qTYeHmK9gk/V1dmYduXoPntDzX5NwzuD/psnFni32ud8JOGbOoJvNwpCelh9kRS2BX610KhGWC5w6fWmmuw3ltXEt2auMZoWx1PVxPxamVDIz6C+eMkkoKGhzoca8yXBMq1aLRlobPoojKkMHcQAI1olW/0yhENeM3LRVmWKiTf1sLc8Xrx/wJ7IoEvACh9XwgSf1tBo9o7IuRw2HUiJ3RCeNEWKGp8R1MhIH9QEJfbOP0vODa6xlyX9Fx3VZra2WRFh2r3Sbg8RK1XN/UQdoN3Oj431c1puIDRe2JM8Brt9z3j8MLK6oElQ4KL+n25RC+hyXVZfnPV2PY9fEwt1unEsoNEcitg7502FST9JjhWRPaKYcr0kj2F6lsIY/6F699Zjmo2HjeAlHgyfv/itsMoRTDBbcQc+rGA2dRkPK0686t3kopReAC+tJmlmFeENrQKkiq3cFgwR0j0EdOFkgoBhgFEdNjHPC4GQcMSa/QYSKRxemykRuI0Ore7sBfzNxlI9KlFghGgeFIIBl8hCf/dTf9nMtiZ5GLsV/ck34UGbVuYZx4VKTqwSumjHt6Q0t/3Vbmg+pu/AZkZzBpA79NgWNXfn5rTMxeR5oMgPlxhhXQ3PE4rDBJwjk/nJ2jX6GuNLvOzEQf049PUnxb6dAxe4dvfDWtrKlVQ2TmvxPkPEjnqttrnweQsPTGldy5eexyrEcyWRJZEHBBTKGHhtR9Fba9RlqBiyAIJgJSwzFD87Ftumaq9+MZiRpX7hyWHk4h2WVgmpg670oG3U1YXkVGF9srYmhT7n1hUUe2CUd+irqkQH2U0ev9BbHiFBAOgihNQP6xsAMNJKxv8lw3nUba88tqj5GXc/oI2PIRf6nA0QRZdpijv620S/Qbwu7C1C86PNwEutsMxmiKlxAEePOS6cb3UJaMtKBMAABmzsyBXwk8uITFSiV3l4MRbLFoG6Btyqx7LC2U0Ks0kws5BYihfKUXMzcfEYjZ+/i7OwJbm3/xo/G2B/8h0/3j+2BElkDUNuja4a0B/Xi0I4wTUvpHI6aiy6NnT8s/p7nLNqEa7cNiW5mWGohDipTE/hNnqlx6DF/fS8ZcuuedC8Jq+OEsjC0yOcfjxCSci61X1tzKq/IEE66TpI/BGJuAj7Jx/bdKEmx6cUO8sUu8I/35QuthzSgEb5yDlKuYvqHdRa8FTCzyHIptyAbAnyWBVc123qLcHm7DGsa/hRv27JtW9ffgZbkcw3yzughXxXXhk/eJFgxiEB7atcu9+okiXMBbNVmwo4vCMfTFoX+eDQCDzirGTtUlgn6q7Npacu5NLpozGJf4C1SNuNmQM0o2kk89w6DQzZnpzUqjrVOr9dK1k=
+    learner_created: false
+  - name: src/main.cpp
+    visible: true
+    encrypted_text: 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
+    learner_created: false
+  - name: CMakeLists.txt
+    visible: false
+    encrypted_text: SFQsvbCzAxH06IHZ31X7VYJiXt1G4dXOtGy1KgiP+oQmETHHGtFKz38G/nw2RsHrXzkmKLRwAXOBiX2KNlQA/wP+Fo4G24ie8Xc7bIEAujKClnkDNlEGFmRexYzaQG0iLhY4YTm2aMCpDjPpMVlANuWdALadl0eLYHmswfBV6WR5M4gfGSuGNeIM9xqKpk4eaFOf2p8nl6X7FpMuHgHCVSuWrp5Bg+QJGSLDhr6PknFOV/HpTZa6EovyzuvrHps0aYOiGM/0pT+ysBCDxdNVvSXLrqLklik26+PhW5Sx/HCQreWjz5dA78OurFARQK85ugmK6oM2bOniAzyHcEnixbL1Wum7RtnK2uhdyxyvq+n5t43Xo1qktxgDiUDAZXhet73fC9vZfhPw38jIBkKf2I9uCv7LiF06V0bqpfQkMMEbqNf4T/0sXQibBtJsI8/kHZUOjBWY4vCHDFl7nZj7KnuoHWDs+XZVzD+qmfzPSwIfJldjmH69Y1M5jNW+BPFsdpTnbPtmY3jSJA1h9fbBy2om2xOZySPUzeqWZhfwBaiv/MjvkLvH/aKW/snhNhXwBOMyDz7xsaTdbYOBP3z3a9tq9hWabJDoi8sAFyUU0JVXnFUov5BtL+gZzVeuOJuz
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScfBp0gzdxWOmXvQVdyNmeO1od7CG7zxLgNUP4LzKxLBCzkhQ/viewform?usp=pp_url&entry.2103429047=Warm+Up/Moving+On/Giving+Direction
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 15 Mar 2024 03:52:11 UTC"
+record: 6

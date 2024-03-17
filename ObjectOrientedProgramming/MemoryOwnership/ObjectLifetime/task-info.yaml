@@ -1,0 +1,14 @@
+type: theory
+custom_name: Object Lifetime
+files:
+  - name: CMakeLists.txt
+    visible: false
+    encrypted_text: SFQsvbCzAxH06IHZ31X7VYJiXt1G4dXOtGy1KgiP+oTGCz35YRxjgD6U9OUStZl8gpza3X6BF8ivoYNRUzMvAKMmXgQNA4nnZu2Vv6q6chZjqRNFAHLd9JFMWklfALYbI4V2hUm1iMbpvIxwwUnkAn/ilgUtAjj58g7b5VKLs+7trjIysYL2V9brvt3bddNwJMZjMDHaJRf/kR2Kr7gwNSGpcQsyCZCDi/jcaVOBAyML8KligHCtG+tGEAsPS5VpYlnVmVOSDW2tBKbpwFRiXDhO11FRcWlQbIg24uYf5DgpU77nYAenLGsVrREMY1T63WpHzmGF/8//Ax7nxmxqjMIS79tSe5sAqHBasQc/YDO8RUO+pqDW09BdujUMdqTkd2Z8yiTFbIVOdy0VWwgjmiahno69B9+Li3btaKEvvHEOUkr7L/6WwuQk/DnY7VvD8QToVnPrpItAx1dUrMo95w==
+    learner_created: false
+  - name: src/main.cpp
+    visible: true
+    encrypted_text: 9HEd8zkvNQRoCO6WiLdN7A+KPOC+KfutLn0kCtYNht4=
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true
