@@ -20,6 +20,6 @@ CMake Deprecation Warning:
 [ 77%] Completed 'googletest'
 [100%] Built target googletest
 -- Found SFML 2.6.1 in /opt/homebrew/lib/cmake/SFML
--- Configuring done (1.3s)
--- Generating done (0.9s)
+-- Configuring done (0.9s)
+-- Generating done (0.6s)
 -- Build files have been written to: /Users/prashanthgadwala/Documents/C++Basics1/cmake-build-debug

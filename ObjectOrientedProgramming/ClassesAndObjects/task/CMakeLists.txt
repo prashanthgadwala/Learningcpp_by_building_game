@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.25)
 
-project(ObjectOrientedProgramming-ClassesAndObjects-Inheritance)
+project(ObjectOrientedProgramming-ClassesAndObjects-Polymorphism)
 
 set(SRC
         src/main.cpp

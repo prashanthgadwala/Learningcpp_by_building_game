@@ -798,9 +798,9 @@ MemoryManagement/TypeCastsAndCStrings/TypeCastsQuestion/clean: MemoryManagement/
 # Directory level rules for directory ObjectOrientedProgramming/ClassesAndObjects/task
 
 # Recursive "all" directory target.
-ObjectOrientedProgramming/ClassesAndObjects/task/all: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-run.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/all: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test-src-part.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/all: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/all: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/all: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/all: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/all
 .PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/all
 
 # Recursive "preinstall" directory target.
@@ -808,9 +808,9 @@ ObjectOrientedProgramming/ClassesAndObjects/task/preinstall:
 .PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/preinstall
 
 # Recursive "clean" directory target.
-ObjectOrientedProgramming/ClassesAndObjects/task/clean: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-run.dir/clean
-ObjectOrientedProgramming/ClassesAndObjects/task/clean: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test-src-part.dir/clean
-ObjectOrientedProgramming/ClassesAndObjects/task/clean: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test.dir/clean
+ObjectOrientedProgramming/ClassesAndObjects/task/clean: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/clean
+ObjectOrientedProgramming/ClassesAndObjects/task/clean: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/clean
+ObjectOrientedProgramming/ClassesAndObjects/task/clean: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/clean
 .PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/clean
 
 #=============================================================================
@@ -2713,84 +2713,84 @@ MemoryManagement/TypeCastsAndCStrings/TypeCastsQuestion/CMakeFiles/MemoryManagem
 .PHONY : MemoryManagement/TypeCastsAndCStrings/TypeCastsQuestion/CMakeFiles/MemoryManagement-TypeCastsAndCStrings-TypeCastsQuestion-run.dir/clean
 
 #=============================================================================
-# Target rules for target ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-run.dir
+# Target rules for target ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir
 
 # All Build rule for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-run.dir/all:
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-run.dir/build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-run.dir/depend
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-run.dir/build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-run.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/prashanthgadwala/Documents/C++Basics1/cmake-build-debug/CMakeFiles --progress-num=46,47,48,49,50,51,52,53 "Built target ObjectOrientedProgramming-ClassesAndObjects-Inheritance-run"
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-run.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/all:
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/depend
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/prashanthgadwala/Documents/C++Basics1/cmake-build-debug/CMakeFiles --progress-num=46,47,48,49,50,51,52,53 "Built target ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run"
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/all
 
 # Build rule for subdir invocation for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-run.dir/rule: cmake_check_build_system
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/prashanthgadwala/Documents/C++Basics1/cmake-build-debug/CMakeFiles 8
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-run.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/prashanthgadwala/Documents/C++Basics1/cmake-build-debug/CMakeFiles 0
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-run.dir/rule
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/rule
 
 # Convenience name for target.
-ObjectOrientedProgramming-ClassesAndObjects-Inheritance-run: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-run.dir/rule
-.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Inheritance-run
+ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/rule
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run
 
 # clean rule for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-run.dir/clean:
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-run.dir/build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-run.dir/clean
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-run.dir/clean
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/clean:
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/clean
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/clean
 
 #=============================================================================
-# Target rules for target ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test-src-part.dir
+# Target rules for target ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir
 
 # All Build rule for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test-src-part.dir/all:
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test-src-part.dir/build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test-src-part.dir/depend
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test-src-part.dir/build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test-src-part.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/prashanthgadwala/Documents/C++Basics1/cmake-build-debug/CMakeFiles --progress-num=55,56,57,58,59,60,61,62 "Built target ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test-src-part"
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test-src-part.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/all:
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/depend
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/prashanthgadwala/Documents/C++Basics1/cmake-build-debug/CMakeFiles --progress-num=55,56,57,58,59,60,61,62 "Built target ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part"
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/all
 
 # Build rule for subdir invocation for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test-src-part.dir/rule: cmake_check_build_system
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/prashanthgadwala/Documents/C++Basics1/cmake-build-debug/CMakeFiles 8
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test-src-part.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/prashanthgadwala/Documents/C++Basics1/cmake-build-debug/CMakeFiles 0
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test-src-part.dir/rule
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/rule
 
 # Convenience name for target.
-ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test-src-part: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test-src-part.dir/rule
-.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test-src-part
+ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/rule
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part
 
 # clean rule for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test-src-part.dir/clean:
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test-src-part.dir/build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test-src-part.dir/clean
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test-src-part.dir/clean
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/clean:
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/clean
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/clean
 
 #=============================================================================
-# Target rules for target ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test.dir
+# Target rules for target ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir
 
 # All Build rule for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test.dir/all: /Users/prashanthgadwala/Documents/C++Basics1/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test.dir/all: /Users/prashanthgadwala/Documents/C++Basics1/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test.dir/all: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test-src-part.dir/all
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test.dir/build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test.dir/depend
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test.dir/build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/prashanthgadwala/Documents/C++Basics1/cmake-build-debug/CMakeFiles --progress-num=54 "Built target ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test"
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/all: /Users/prashanthgadwala/Documents/C++Basics1/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/all: /Users/prashanthgadwala/Documents/C++Basics1/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/all: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/all
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/depend
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/prashanthgadwala/Documents/C++Basics1/cmake-build-debug/CMakeFiles --progress-num=54 "Built target ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test"
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/all
 
 # Build rule for subdir invocation for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test.dir/rule: cmake_check_build_system
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/prashanthgadwala/Documents/C++Basics1/cmake-build-debug/CMakeFiles 11
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/prashanthgadwala/Documents/C++Basics1/cmake-build-debug/CMakeFiles 0
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test.dir/rule
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/rule
 
 # Convenience name for target.
-ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test.dir/rule
-.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test
+ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/rule
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test
 
 # clean rule for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test.dir/clean:
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test.dir/build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test.dir/clean
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Inheritance-test.dir/clean
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/clean:
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/clean
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/clean
 
 #=============================================================================
 # Target rules for target ObjectOrientedProgramming/MemoryOwnership/CopyConstructor/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-CopyConstructor-run.dir
