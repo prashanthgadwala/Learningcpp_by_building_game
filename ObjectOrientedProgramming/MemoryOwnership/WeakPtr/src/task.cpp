@@ -5,7 +5,8 @@
 #include "../include/user.hpp"
 
 std::shared_ptr<Chat> createNewChat(std::string name, const std::shared_ptr<User>& host) {
-    return nullptr;
+    host->chat = std::make_shared<Chat>(User::nextChatId++, std::move(name), host);
+    return host->chat;
 }
 
 int main() {

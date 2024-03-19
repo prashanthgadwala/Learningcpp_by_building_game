@@ -2806,6 +2806,78 @@
 			"value" : "/Users/prashanthgadwala/Documents/C++Basics1/MemoryManagement/TypeCastsAndCStrings/TypeCastsQuestion"
 		},
 		{
+			"name" : "ObjectOrientedProgramming-ClassesAndObjects-CollisionsRevisited_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/prashanthgadwala/Documents/C++Basics1/cmake-build-debug/ObjectOrientedProgramming/ClassesAndObjects/task"
+		},
+		{
+			"name" : "ObjectOrientedProgramming-ClassesAndObjects-CollisionsRevisited_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "OFF"
+		},
+		{
+			"name" : "ObjectOrientedProgramming-ClassesAndObjects-CollisionsRevisited_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/prashanthgadwala/Documents/C++Basics1/ObjectOrientedProgramming/ClassesAndObjects/task"
+		},
+		{
+			"name" : "ObjectOrientedProgramming-ClassesAndObjects-Encapsulation_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/prashanthgadwala/Documents/C++Basics1/cmake-build-debug/ObjectOrientedProgramming/ClassesAndObjects/task"
+		},
+		{
+			"name" : "ObjectOrientedProgramming-ClassesAndObjects-Encapsulation_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "OFF"
+		},
+		{
+			"name" : "ObjectOrientedProgramming-ClassesAndObjects-Encapsulation_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/prashanthgadwala/Documents/C++Basics1/ObjectOrientedProgramming/ClassesAndObjects/task"
+		},
+		{
 			"name" : "ObjectOrientedProgramming-ClassesAndObjects-Inheritance_BINARY_DIR",
 			"properties" : 
 			[
@@ -2914,6 +2986,78 @@
 			"value" : "/Users/prashanthgadwala/Documents/C++Basics1/ObjectOrientedProgramming/ClassesAndObjects/task"
 		},
 		{
+			"name" : "ObjectOrientedProgramming-ClassesAndObjects-NewChallenge_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/prashanthgadwala/Documents/C++Basics1/cmake-build-debug/ObjectOrientedProgramming/ClassesAndObjects/task"
+		},
+		{
+			"name" : "ObjectOrientedProgramming-ClassesAndObjects-NewChallenge_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "OFF"
+		},
+		{
+			"name" : "ObjectOrientedProgramming-ClassesAndObjects-NewChallenge_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/prashanthgadwala/Documents/C++Basics1/ObjectOrientedProgramming/ClassesAndObjects/task"
+		},
+		{
+			"name" : "ObjectOrientedProgramming-ClassesAndObjects-NewDynamics_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/prashanthgadwala/Documents/C++Basics1/cmake-build-debug/ObjectOrientedProgramming/ClassesAndObjects/task"
+		},
+		{
+			"name" : "ObjectOrientedProgramming-ClassesAndObjects-NewDynamics_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "OFF"
+		},
+		{
+			"name" : "ObjectOrientedProgramming-ClassesAndObjects-NewDynamics_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/prashanthgadwala/Documents/C++Basics1/ObjectOrientedProgramming/ClassesAndObjects/task"
+		},
+		{
 			"name" : "ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading_BINARY_DIR",
 			"properties" : 
 			[
@@ -2975,6 +3119,42 @@
 		},
 		{
 			"name" : "ObjectOrientedProgramming-ClassesAndObjects-Polymorphism_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/prashanthgadwala/Documents/C++Basics1/ObjectOrientedProgramming/ClassesAndObjects/task"
+		},
+		{
+			"name" : "ObjectOrientedProgramming-ClassesAndObjects-StaticMembers_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/prashanthgadwala/Documents/C++Basics1/cmake-build-debug/ObjectOrientedProgramming/ClassesAndObjects/task"
+		},
+		{
+			"name" : "ObjectOrientedProgramming-ClassesAndObjects-StaticMembers_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "OFF"
+		},
+		{
+			"name" : "ObjectOrientedProgramming-ClassesAndObjects-StaticMembers_SOURCE_DIR",
 			"properties" : 
 			[
 				{

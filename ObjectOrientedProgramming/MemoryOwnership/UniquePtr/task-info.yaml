@@ -12,8 +12,8 @@ files:
   - name: src/task.cpp
     visible: true
     placeholders:
-      - offset: 104
-        length: 15
+      - offset: 308
+        length: 26
         placeholder_text: return nullptr;
         initial_state:
           length: 15
@@ -21,8 +21,12 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: iila8q0WBkSJjvXwkKni7VzpOJhNeQwc04vvLb+RKswY8DMpqZghiBTiJo6X27ij3gCYSsdP7NKNb3eeDwqjDh9dXMNxMedpHfVywcE65RchJRgo8hx4iwdCbYo5FSQjh0Xk9GeRP6l6sduz2LQKUEWi9dXV7+uIeiLK5Tt91pyYDTmhy0D5KPEryfWklg6VvbsVVy2E5ncmR7v4NU9QnwBaN+Nrs2XA4v27teXEgf8i2GotLEdokutdjY/Q0qp4wk3i6xuiOmwaPCrLmX16lw==
         selected: false
-        status: Unchecked
+        status: Solved
+        is_visible: false
     encrypted_text: Qkf7/9Srum7dDWEITmo6xj6MIHABw0B2Y22phS6XEFu6Afup6NpgwAOVos0qvz56qBa7jibfUbNu7d8M0S3HtJmKRug4s982Q+aCwhEApbMWiE0JvnqxAurfknrZfuMN02oGvQ+Y4/2mogwVXE14rH4JDAVgvcsiis7b3E7YB4X2rWAK9Vq0rrqu5nSdETfgvK5e55K0/FhmPCcw/EU5LH2v8iVVM5XItbljdSTF87WgMRkiEW9EdtGRqgYKCb7gC9YF2BdHYPDrJ/jN66R/nSeKJEiTbfSMaZBtnSHooTKXK1QAtQujC9Y7neUd99cOuYH6DjoIc+1kMATWuMFh4HryNRWMLfoYUEV2Z9x2d8iAVFhALwWk9LKxn7znex4ia2c5nIiasVUwuQ1rVpcOBrNfP1POAWVyoNfEqgPLUlkJumy92bK/Xwmy+x+aehqP+j9IllmhVQ/y4Fwz5QkskWABllS7gX6KIAQtLB89KIWaruoomJiuFEAdAy6NWELF53igkcd45GtRh/7MkyEzWp5UoD5rXGGQLVRBApx2yU8=
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 18 Mar 2024 15:23:36 UTC"
 record: -1

@@ -19,7 +19,7 @@ files:
     visible: true
     placeholders:
       - offset: 85
-        length: 64
+        length: 51
         placeholder_text: // create Cat object with the name Tom in the given memory block
         initial_state:
           length: 64
@@ -27,9 +27,10 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: lnRy0CFQjWzd32q51dttUmpvOva5ctHECvv93qg9FUg=
         selected: false
-        status: Unchecked
-      - offset: 189
-        length: 54
+        status: Solved
+        is_visible: false
+      - offset: 176
+        length: 39
         placeholder_text: // destroy Cat object stored in the given memory block
         initial_state:
           length: 54
@@ -37,9 +38,10 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: mPq9NITyYNSjBb3nD1Ay+xNzLjvpKqhbsRVfM/Bsb1OMBdV7FIdC5cIp30kb0pfF
         selected: false
-        status: Unchecked
-      - offset: 286
-        length: 68
+        status: Solved
+        is_visible: false
+      - offset: 258
+        length: 61
         placeholder_text: // create Mouse object with the name Jerry in the given memory
           block
         initial_state:
@@ -48,9 +50,10 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: lnRy0CFQjWzd32q51dttUt+Hz3khXuBZDV1Mn3Se2EM3uOz7nW/mRPw0YJijrwLc
         selected: false
-        status: Unchecked
-      - offset: 396
-        length: 56
+        status: Solved
+        is_visible: false
+      - offset: 361
+        length: 43
         placeholder_text: // destroy Mouse object stored in the given memory block
         initial_state:
           length: 56
@@ -58,12 +61,16 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: mPq9NITyYNSjBb3nD1Ay+xhaN/Haq33RCydFhH1WE9SXlOuJsnbA3o2zUrOuoz8o
         selected: false
-        status: Unchecked
+        status: Solved
+        is_visible: false
     encrypted_text: ZXVOCzX3M/8fUXJavh/IYAf4vTL9QHKIpIrpFroxRuZ9bmKSIIyzD18WoCe3sIJWBVxRY1KHvzBrCSTKiH7wPCG+NiLgF6P7XtmrUs5gqm1VB/aAzbDekNCtkAPLlDp/aDdxgLbTVAD4djAJWf5Z47FIa/jyVt7dt3BCrymKozdpFVnUUUVF2vkHDTo+lAtdRQTm1xdIPWJOVcg8QiU7/CxkXgDdj3QlycX+AqXPZ3UtvL7A25eEXucEn8o1k/QV4aK9UjkaGV9xlDYuK8TxT4j237ZmZjSafFtVBpzJujWEAYbNn6ZZtQkai0Zk4eD+9aALaimuIt/WhnSUNAnySLPB5TWZLtfOj3gn/TKYb8/JvtGOO738ixoUDlyGZh2OPWYbsBjfFwjjI5g9WiAFUS9GesRxcCnHttSfwcdE8JNu03zHl0eL51v+k7Cr7HkZ/QcdNRi3fawBNn9q9Z6OY7nhz+Avu6DjlyWI/91ZfEhqxDLpliptaa2+/w0tWS27bdtwnD7oRmCFBrHRnrXLwoPn3VXsvMBau/pEtA5+MhsQPORONbKGlu0cu32g6K3dQ5/flfVdjPcr7A1GS0jfWXpwhlqszYBTmi8qqyv7vBY=
     learner_created: false
   - name: test/test.cpp
     visible: false
     encrypted_text: L5ffR8J4TW5o2ausXnEBbbNk2OlFqMbVM7CIl3R4fxyA3bWtDC/PIB2ERxeRKs56HBNuggG7Y/AAPsU4zEMbs9n5bvlCXKQsHSrUXMdCKGeORalmQYSbhSqblLKIanN0ozK+zY6TZwY8BCEt6n7lOe1qttaP++IUhHhs46E5Smf6L8/INchZKdtVcEt6LzgKvPGIQNq0wA+qpULNIWquiHbz92eyIMOhrVWqRGJgq1nRLV3V3Mbi+G8AbUPCpddF60u5pn96qohtucPdjIQzlwC+xSe8WI8ZsJyJYMUN05QtHId6W156IAQHFua+ffW7DweNsPD9FN9rOZ628APBRzc1y/OcVJF1NZuFc8fzzQAKhcT4UeH9LWcD0z1PZcJvvtimTTHtYbjg2MPhYdjVAjnMQANyT92vIAeyTraADjh5UWKnhWP+YTF5fMbt3ubXJ+ETKaEJKNOtYDSefeLtqDwlzVWjVlYmefYzJISYrZvzXSMNqVaQeqQ15qO+biP4q4hkWh2s0NHoo6154X5XBj23k8ZZxndTwyi+RCyy7pbWWwbi4k/g3higsPG+oGXNGhibweicPVx2QylI8TJo4zmNpzbyHK0hbRiciu1J6CISXhDY33iiDNKpus8PEdNcCE5rAUKy28EDH9+mwwHdI0ED4YJkCePCwuv5nP3j3v+tdhv2s8la4gtEKcUbDiR9ADD5nxSFQ/mZht/Jjcdbge5Mxfbt3qLH2Dl5WuSjHa7CGurduyg3S1/SvBtr0CLzApvEnBGJainSlxeE2bbeQKvOLKZlAXUne9MNftcs3rndPbl5ZZxYjV3rVkk+refGDVAGFs3/L4aFykxlX+iRDjKDNUJJrsHUr3NtoO0TWPka5zf8bp5Y6Q3OGUZs2UTHukCePwlpWutSygcZ8Wu7Cqe/rr8uJmhFzGkQiS+f5ym2FCYCGnrBjLdFTgUyeo8TZWy7haORH9u1x+5Kge4qnRII3ILJg3zUfll+zX6UeY5LfafdsCK1TGT9f/NFDlF+bUXxZRQispqvAFkm10LxxWOc/HWKRE9e7jpp3nGT6g0qK3HNw3afAMLid4kncow8fmx2p/RzVDCpCxNtVujd1NbS40bWOU2cXxt6VVdZJii80IRDYrQdrAjGRMGp88TtYglQtEWCKtAg3FQmZnLpm9NR6XpakBy2qv0o0VzQTlsU4y0nrICBWWxi6LJq8F4MM6wJDh6c/9E6nDTBPm4bB/CHSVMLe3pI5JpywscOxGVf3MQ7b5bZrfCsxK0bFemQyMsw6E54jHIyxVH8ssGqKziIcdctP6siBUEwt2vaZyI=
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 17 Mar 2024 12:22:20 UTC"
 record: -1

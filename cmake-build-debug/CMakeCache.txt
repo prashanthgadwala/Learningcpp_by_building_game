@@ -601,6 +601,24 @@ MemoryManagement-TypeCastsAndCStrings-TypeCastsQuestion_IS_TOP_LEVEL:STATIC=OFF
 MemoryManagement-TypeCastsAndCStrings-TypeCastsQuestion_SOURCE_DIR:STATIC=/Users/prashanthgadwala/Documents/C++Basics1/MemoryManagement/TypeCastsAndCStrings/TypeCastsQuestion
 
 //Value Computed by CMake
+ObjectOrientedProgramming-ClassesAndObjects-CollisionsRevisited_BINARY_DIR:STATIC=/Users/prashanthgadwala/Documents/C++Basics1/cmake-build-debug/ObjectOrientedProgramming/ClassesAndObjects/task
+
+//Value Computed by CMake
+ObjectOrientedProgramming-ClassesAndObjects-CollisionsRevisited_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+ObjectOrientedProgramming-ClassesAndObjects-CollisionsRevisited_SOURCE_DIR:STATIC=/Users/prashanthgadwala/Documents/C++Basics1/ObjectOrientedProgramming/ClassesAndObjects/task
+
+//Value Computed by CMake
+ObjectOrientedProgramming-ClassesAndObjects-Encapsulation_BINARY_DIR:STATIC=/Users/prashanthgadwala/Documents/C++Basics1/cmake-build-debug/ObjectOrientedProgramming/ClassesAndObjects/task
+
+//Value Computed by CMake
+ObjectOrientedProgramming-ClassesAndObjects-Encapsulation_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+ObjectOrientedProgramming-ClassesAndObjects-Encapsulation_SOURCE_DIR:STATIC=/Users/prashanthgadwala/Documents/C++Basics1/ObjectOrientedProgramming/ClassesAndObjects/task
+
+//Value Computed by CMake
 ObjectOrientedProgramming-ClassesAndObjects-Inheritance_BINARY_DIR:STATIC=/Users/prashanthgadwala/Documents/C++Basics1/cmake-build-debug/ObjectOrientedProgramming/ClassesAndObjects/task
 
 //Value Computed by CMake
@@ -628,6 +646,24 @@ ObjectOrientedProgramming-ClassesAndObjects-Introduction_IS_TOP_LEVEL:STATIC=OFF
 ObjectOrientedProgramming-ClassesAndObjects-Introduction_SOURCE_DIR:STATIC=/Users/prashanthgadwala/Documents/C++Basics1/ObjectOrientedProgramming/ClassesAndObjects/task
 
 //Value Computed by CMake
+ObjectOrientedProgramming-ClassesAndObjects-NewChallenge_BINARY_DIR:STATIC=/Users/prashanthgadwala/Documents/C++Basics1/cmake-build-debug/ObjectOrientedProgramming/ClassesAndObjects/task
+
+//Value Computed by CMake
+ObjectOrientedProgramming-ClassesAndObjects-NewChallenge_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+ObjectOrientedProgramming-ClassesAndObjects-NewChallenge_SOURCE_DIR:STATIC=/Users/prashanthgadwala/Documents/C++Basics1/ObjectOrientedProgramming/ClassesAndObjects/task
+
+//Value Computed by CMake
+ObjectOrientedProgramming-ClassesAndObjects-NewDynamics_BINARY_DIR:STATIC=/Users/prashanthgadwala/Documents/C++Basics1/cmake-build-debug/ObjectOrientedProgramming/ClassesAndObjects/task
+
+//Value Computed by CMake
+ObjectOrientedProgramming-ClassesAndObjects-NewDynamics_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+ObjectOrientedProgramming-ClassesAndObjects-NewDynamics_SOURCE_DIR:STATIC=/Users/prashanthgadwala/Documents/C++Basics1/ObjectOrientedProgramming/ClassesAndObjects/task
+
+//Value Computed by CMake
 ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading_BINARY_DIR:STATIC=/Users/prashanthgadwala/Documents/C++Basics1/cmake-build-debug/ObjectOrientedProgramming/ClassesAndObjects/task
 
 //Value Computed by CMake
@@ -644,6 +680,15 @@ ObjectOrientedProgramming-ClassesAndObjects-Polymorphism_IS_TOP_LEVEL:STATIC=OFF
 
 //Value Computed by CMake
 ObjectOrientedProgramming-ClassesAndObjects-Polymorphism_SOURCE_DIR:STATIC=/Users/prashanthgadwala/Documents/C++Basics1/ObjectOrientedProgramming/ClassesAndObjects/task
+
+//Value Computed by CMake
+ObjectOrientedProgramming-ClassesAndObjects-StaticMembers_BINARY_DIR:STATIC=/Users/prashanthgadwala/Documents/C++Basics1/cmake-build-debug/ObjectOrientedProgramming/ClassesAndObjects/task
+
+//Value Computed by CMake
+ObjectOrientedProgramming-ClassesAndObjects-StaticMembers_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+ObjectOrientedProgramming-ClassesAndObjects-StaticMembers_SOURCE_DIR:STATIC=/Users/prashanthgadwala/Documents/C++Basics1/ObjectOrientedProgramming/ClassesAndObjects/task
 
 //Value Computed by CMake
 ObjectOrientedProgramming-MemoryOwnership-CopyConstructor_BINARY_DIR:STATIC=/Users/prashanthgadwala/Documents/C++Basics1/cmake-build-debug/ObjectOrientedProgramming/MemoryOwnership/CopyConstructor

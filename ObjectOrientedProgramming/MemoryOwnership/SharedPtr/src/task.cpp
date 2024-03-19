@@ -6,15 +6,15 @@ int User::nextId = 0;
 int User::nextChatId = 0;
 
 void User::createNewChat(std::string name) {
-    /* TODO */
+    chat = std::make_shared<Chat>(nextChatId++, std::move(name));
 }
 
 void User::joinChatByInvite(const User& user) {
-    /* TODO */
+    chat = user.chat;
 }
 
 void User::leaveChat() {
-    /* TODO */
+    chat.reset();
 }
 
 int main() {

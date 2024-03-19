@@ -24,12 +24,12 @@ public:
     }
 
     inline std::shared_ptr<User> getHost() const {
-        return host;
+        return host.lock();
     }
 private:
     int id;
     std::string name;
-    std::shared_ptr<User> host;
+    std::weak_ptr<User> host;
 };
 
 std::shared_ptr<Chat> createNewChat(std::string name, const std::shared_ptr<User>& host);

@@ -2,7 +2,15 @@
 #include <iostream>
 
 std::unique_ptr<int[]> copy(const int* array, size_t size) {
-    return nullptr;
+    if(size == 0)
+        return nullptr;
+    else {
+        std::unique_ptr<int[]> copu = std::make_unique<int[]>(size);
+        for (size_t i = 0; i < size; ++i) {
+            copu[i] = array[i];
+        }
+        return copu;
+    }
 }
 
 int main() {
